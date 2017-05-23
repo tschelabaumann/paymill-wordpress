@@ -3,6 +3,13 @@
 Changelog
 =========
 
+1.13
+-----
+
+- Remove CURLOPT_CAINFO - path to Certificate Authority (CA) bundle
+- Remove paymill.crt
+- Change user agent info to "Paymill-Wordpress/1.13"
+
 1.12
 -----
 * WooCommerce: several bugs fixed
